@@ -17,7 +17,7 @@ def backup_folder(source_dir, backup_dir):
 
 if __name__ == "__main__":
     # Replace 'flutter_assignment1' with the actual folder on your Desktop
-    source = os.path.expanduser('~/Desktop/html_plp')
+    source = os.path.expanduser('~/Desktop/css_plp')
     # Set the backup destination to Documents/Backups
     backup = os.path.expanduser('~/Documents/Backups')
     
