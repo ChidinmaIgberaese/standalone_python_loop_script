@@ -1,0 +1,14 @@
+# Ignore backup folders
+/Backups/
+
+# Ignore Python bytecode files
+__pycache__/
+*.pyc
+*.pyo
+
+# Ignore virtual environment directories
+/env/
+/venv/
+
+# Ignore environment configuration files
+.env
